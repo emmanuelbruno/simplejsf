@@ -10,7 +10,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <primefaces.version>5.0</primefaces.version>
+        <primefaces.version>8.0</primefaces.version>
         <embedded-glassfish.version>3.1.2.2</embedded-glassfish.version>
         <glassfish.version>4.1</glassfish.version>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
@@ -120,7 +120,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.11</version>
+            <version>4.13.1</version>
             <scope>test</scope>
         </dependency>
 
